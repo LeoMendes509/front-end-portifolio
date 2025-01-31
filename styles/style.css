@@ -132,7 +132,7 @@ body {
 }
 
 .apresentacao img {
-    max-width: 40%; /* Ajusta a largura da imagem */
+    max-width: 35%; /* Ajusta a largura da imagem */
     height: auto; /* Mantém a proporção da imagem */
     border-radius: 10px; /* Bordas arredondadas na imagem */
 }
